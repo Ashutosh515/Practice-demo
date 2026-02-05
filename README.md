@@ -11,7 +11,7 @@ commands for push code to github repository from localhost
 Connect local repo to GitHub
 - git branch -M main
 - git remote add origin https://github.com/<username>/<repo-name>.git
-- git push -u origin main
+- git push -u origin main / git push origin main
 
 For Amazon Linux
 - sudo yum update -y
